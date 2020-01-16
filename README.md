@@ -6,7 +6,7 @@ b) Prvi kanal aktivirajte kot PWM Generation CH1. Kateri pin ste omogočili? PA8
 
 d) Koliko je vrednost Prescaler? 16
 
-e) Koliko znaša sedaj?
+e) Koliko znaša sedaj? 10kHz.
 
 # 3. Programiranje v SW4
 
